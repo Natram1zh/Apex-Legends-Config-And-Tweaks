@@ -1,8 +1,3 @@
 # APEX CONFIGS & TWEAKS BY NATRAM1ZH
-# Autoexec
-1.Go to the games directory. (Usually in C:\Program Files (x86)\Origin Games\Apex\cfg)
-2.Create there a new file called "autoexec.cfg" (without the Quotation marks)
-3.Paste everything from autoexec in it.
-4.Rightclick on the game inside of Origin and go to "Game Properties".
-5.Switch to the "Advanced Launch Options" Tab.
-6.Add the Command line argument "+exec autoexec.cfg" (without the Quotation marks)
+# Consistant Frame Caping
+Use RTSS for framerate caping over build-in game engines caps. RTSS is the best in frametime consistancy. Do not use a higher cap value than 190 FPS since the game will introduce stutter (its a apex bug) You can download RTSS [here](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html)
