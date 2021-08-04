@@ -39,9 +39,9 @@
 	"setting.dvs_supersample_enable"		"0"
 	"setting.gamma"		"1.000000"
 	"setting.dlight_enable"	 "0"
-    "setting.mat_disable_bloom" "1"
-    "setting.mat_specular" "0"
-    "setting.mat_bumpmap" "0"
-    "setting.r_dynamic" "0"
+        "setting.mat_disable_bloom" "1"
+        "setting.mat_specular" "0"
+        "setting.mat_bumpmap" "0"
+        "setting.r_dynamic" "0"
 	"setting.configversion"		"7"
 }
