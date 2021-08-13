@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Set IoPriority to High
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\r5apex.exe\PerfOptions]
+"IoPriority"=dword:00000003
