@@ -7,8 +7,8 @@
 	"setting.cl_ragdoll_self_collision"		"0"
 	"setting.mat_forceaniso"		"1"
 	"setting.mat_mip_linear"		"0"
-	"setting.stream_memory"		"3000000"                             // amount of vram usage (i use 8 gb)
-	"setting.mat_picmip"		"0"
+	"setting.stream_memory"		"3000000"                             // Amount of vram usage (i use 8 gb)
+	"setting.mat_picmip"		"4"                                   // Additional change of texture quality (1-high 4-low)
 	"setting.particle_cpu_level"		"0"
 	"setting.r_createmodeldecals"		"0"
 	"setting.r_decals"		"0"
@@ -30,7 +30,7 @@
 	"setting.mat_vsync_mode"		"0"
 	"setting.mat_backbuffer_count"		"1"
 	"setting.mat_antialias_mode"		"0"
-	"setting.csm_enabled"		"1"                                  // Shadows (to disable change to 0)
+	"setting.csm_enabled"		"1"                                   // Shadows (to disable change to 0)
 	"setting.csm_coverage"		"1"
 	"setting.csm_cascade_res"		"512"
 	"setting.fadeDistScale"		"1.000000"
