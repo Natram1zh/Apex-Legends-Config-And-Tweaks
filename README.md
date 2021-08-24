@@ -4,7 +4,7 @@
 3. Paste everything from autoexec in it.
 4. Rightclick on the game inside of Steam and go to "Properties".
 5. Switch to the "General" Tab.
-6. Add the command in launch options "+exec autoexec -fullscreen -dxlevel 95 -novid -dev" (without the Quotation marks)
+6. Add the command in launch options "+exec autoexec" (without the Quotation marks)
 # Videoconfig
 1. Press Win+R while you are on your desktop.
 2. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" (without the Quotation marks)
