@@ -14,6 +14,7 @@
 # Best Gaming OS 
 [ggOS](https://discord.gg/A5BHSQV) · Windows 10 for Gamers 
 - Note: This is an early access release for advanced users. if you are not comfortable with installing windows, updating drivers, using the device manager, changing the registry, or debugging on your own, do not install it.
+- There is no best. Drivers, power plans, tweaks, even isos ... they all depend on your hardware, games, needs, and personal preferences. What is great for me may be terrible for you. The only way to know what is best for you is to test it yourself.
 # Consistant Frame Caping
 Use RTSS for framerate caping over build-in game engines caps. RTSS is the best in frametime consistancy. Do not use a higher cap value than 190 FPS since the game will introduce stutter (its a apex bug) You can download RTSS [here](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html)
 - For BR Max is 190 fps [More info](https://twitter.com/CaIypto/status/1392354731205529606)
