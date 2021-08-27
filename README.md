@@ -1,6 +1,3 @@
-# Best Gaming OS 
-[ggOS](https://discord.gg/A5BHSQV) · Windows 10 for Gamers 
-- Note: this is an early access release for advanced users. if you are not comfortable with installing windows, updating drivers, using the device manager, changing the registry, or debugging on your own, do not install it.
 # Autoexec
 1. Go to the games directory. (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg)
 2. Create there a new file called "autoexec.cfg" (without the Quotation marks)
@@ -14,6 +11,9 @@
 3. Open up the Videoconfig.txt with Wordpad or Notepad++.
 4. Replace everything in it with the code from videoconfig
 5. Save and make the file read-only. For Origin users also make sure your Origin Cloud Sync is disabled in the origin settings
+# Best Gaming OS 
+[ggOS](https://discord.gg/A5BHSQV) · Windows 10 for Gamers 
+- Note: This is an early access release for advanced users. if you are not comfortable with installing windows, updating drivers, using the device manager, changing the registry, or debugging on your own, do not install it.
 # Consistant Frame Caping
 Use RTSS for framerate caping over build-in game engines caps. RTSS is the best in frametime consistancy. Do not use a higher cap value than 190 FPS since the game will introduce stutter (its a apex bug) You can download RTSS [here](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html)
 - For BR Max is 190 fps [More info](https://twitter.com/CaIypto/status/1392354731205529606)
