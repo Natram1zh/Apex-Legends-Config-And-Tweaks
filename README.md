@@ -1,6 +1,6 @@
 # Best Gaming OS 
 [ggOS](https://discord.gg/A5BHSQV) · Windows 10 for Gamers 
-Note: this is an early access release for advanced users. if you are not comfortable with installing windows, updating drivers, using the device manager, changing the registry, or debugging on your own, do not install it.
+-Note: this is an early access release for advanced users. if you are not comfortable with installing windows, updating drivers, using the device manager, changing the registry, or debugging on your own, do not install it.
 # Autoexec
 1. Go to the games directory. (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg)
 2. Create there a new file called "autoexec.cfg" (without the Quotation marks)
