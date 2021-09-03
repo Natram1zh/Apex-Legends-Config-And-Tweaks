@@ -28,6 +28,7 @@ sprint_view_shake_style "1"                                                     
 mat_vsync "0"                                                                   // Ensure VSync is disabled by default
 r_fullscreen 1                                                                  // Fullscreen mode (adding this command before some pro idiots are playing in borderless fullscreen)
 hud_setting_pingDoubleTapEnemy "1"                                              // Double tap to ping enemy (default 0)
+fov_disableAbilityScaling "1"                                                   // Really good for octane and bloodhound mains (default 0)
 
 // CUSTOM-BINDS--------------------------------------------------
 
