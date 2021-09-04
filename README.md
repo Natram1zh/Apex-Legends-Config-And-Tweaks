@@ -20,4 +20,5 @@ Use RTSS for framerate caping over build-in game engines caps. RTSS is the best 
 - For BR Max is 190 fps [More info](https://twitter.com/CaIypto/status/1392354731205529606)
 - For Arena (if you can get above 251 fps all the time then cap it to 251 fps or uncap) [More info](https://twitter.com/DEAFPS_/status/1416582405633318912)
 # Apex Server Manger 
+- Official Site To Download : https://m1kes.co.zw/softwares/
 - More Info : https://youtu.be/944kZCUqIXs
