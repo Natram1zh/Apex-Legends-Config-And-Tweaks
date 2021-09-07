@@ -29,6 +29,7 @@ mat_vsync "0"                                                                   
 r_fullscreen 1                                                                  // Fullscreen mode (adding this command before some pro idiots are playing in borderless fullscreen)
 hud_setting_pingDoubleTapEnemy "1"                                              // Double tap to ping enemy (default 0)
 fov_disableAbilityScaling "1"                                                   // Really good for octane and bloodhound mains (default 0)
+developer "1"                                                                   // Now you can see time in your lobby
 
 // CUSTOM-BINDS--------------------------------------------------
 
