@@ -4,7 +4,7 @@
 	"setting.cl_particle_fallback_base"		"6"
 	"setting.cl_particle_fallback_multiplier"		"6"
 	"setting.cl_ragdoll_maxcount"		"0"
-	"setting.cl_ragdoll_self_collision"		"1"
+	"setting.cl_ragdoll_self_collision"		"0"
 	"setting.mat_forceaniso"		"1"
 	"setting.mat_mip_linear"		"0"
 	"setting.stream_memory"		"3000000"
