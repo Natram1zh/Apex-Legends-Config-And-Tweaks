@@ -22,3 +22,5 @@ Use RTSS for framerate caping over build-in game engines caps. RTSS is the best 
 # Apex Server Manger 
 - Official Site To Download : https://m1kes.co.zw/softwares/
 - More Info : https://youtu.be/944kZCUqIXs
+# Discord Debloater
+-[Discord Debloater](https://github.com/Pablerso/Discord-Debloater/releases/tag/Discord) for convenience and performance
