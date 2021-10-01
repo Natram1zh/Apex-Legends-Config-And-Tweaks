@@ -10,7 +10,7 @@
 2. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" (without the Quotation marks)
 3. Open up the Videoconfig.txt with Wordpad or Notepad++.
 4. Replace everything in it with the code from videoconfig
-5. Save and make the file read-only. For Origin users also make sure your Origin Cloud Sync is disabled in the origin settings
+5. Save and For Origin users make sure your Origin Cloud Sync is disabled in the origin settings
 # Best Gaming OS 
 [ggOS](https://discord.gg/A5BHSQV) · Windows 10 for Gamers 
 - This is an early access release for advanced users. if you are not comfortable with installing windows, updating drivers, using the device manager, changing the registry, or debugging on your own, do not install it.
