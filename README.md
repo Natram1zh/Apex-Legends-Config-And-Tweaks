@@ -1,16 +1,16 @@
 # Autoexec
 1. Go to the games directory. (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg)
 2. Create there a new file called "autoexec.cfg" (without the Quotation marks)
-3. Paste everything from autoexec in it.
+3. Paste everything from [autoexec](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/autoexec.cfg) in it.
 4. Rightclick on the game inside of Steam and go to "Properties".
 5. Switch to the "General" Tab.
 6. Add the command in launch options "+exec autoexec.cfg -forcenovsync -fullscreen -dev" (without the Quotation marks)
 # Videoconfig
-8. Press Win+R while you are on your desktop.
-9. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" (without the Quotation marks)
-10. Open up the Videoconfig.txt with Wordpad or Notepad++.
-11. Replace everything in it with the code from videoconfig
-12. Save and For Origin users make sure your Origin Cloud Sync is disabled in the origin settings
+7. Press Win+R while you are on your desktop.
+8. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" (without the Quotation marks)
+9. Open up the Videoconfig.txt with Wordpad or Notepad++.
+10. Replace everything in it with the code from [videoconfig](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/videoconfig.txt)
+11. Save and For Origin users make sure your Origin Cloud Sync is disabled in the origin settings
 # Best Gaming OS 
 [ggOS](https://discord.gg/A5BHSQV) · Windows 10 for Gamers 
 - This is an early access release for advanced users. if you are not comfortable with installing windows, updating drivers, using the device manager, changing the registry, or debugging on your own, do not install it.
