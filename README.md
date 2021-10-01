@@ -4,13 +4,13 @@
 3. Paste everything from autoexec in it.
 4. Rightclick on the game inside of Steam and go to "Properties".
 5. Switch to the "General" Tab.
-6. Add the command in launch options "+exec autoexec" (without the Quotation marks)
+6. Add the command in launch options "+exec autoexec.cfg -forcenovsync -fullscreen -dev" (without the Quotation marks)
 # Videoconfig
-1. Press Win+R while you are on your desktop.
-2. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" (without the Quotation marks)
-3. Open up the Videoconfig.txt with Wordpad or Notepad++.
-4. Replace everything in it with the code from videoconfig
-5. Save and For Origin users make sure your Origin Cloud Sync is disabled in the origin settings
+8. Press Win+R while you are on your desktop.
+9. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" (without the Quotation marks)
+10. Open up the Videoconfig.txt with Wordpad or Notepad++.
+11. Replace everything in it with the code from videoconfig
+12. Save and For Origin users make sure your Origin Cloud Sync is disabled in the origin settings
 # Best Gaming OS 
 [ggOS](https://discord.gg/A5BHSQV) · Windows 10 for Gamers 
 - This is an early access release for advanced users. if you are not comfortable with installing windows, updating drivers, using the device manager, changing the registry, or debugging on your own, do not install it.
