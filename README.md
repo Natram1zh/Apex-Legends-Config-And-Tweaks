@@ -16,6 +16,7 @@ Windows 10 -
 [ggOS](https://discord.gg/A5BHSQV) · Windows 10 for Gamers 
 - This is an early access release for advanced users. if you are not comfortable with installing windows, updating drivers, using the device manager, changing the registry, or debugging on your own, do not install it.
 - There is no best. Drivers, power plans, tweaks, even isos ... they all depend on your hardware, games, needs, and personal preferences. What is great for me may be terrible for you. The only way to know what is best for you is to test it yourself.
+
 Windows 7 -
 [NaniOS](https://discord.gg/SFgCXsn2nX) . Windows 7 for Gamers
 - NaniOS is a Custom Windows 7 ISO. An Iso aiming to achieve highest Gaming Performence and lowest latency 
