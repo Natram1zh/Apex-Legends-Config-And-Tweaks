@@ -21,6 +21,7 @@ Windows 7 -
 [NaniOS](https://discord.gg/SFgCXsn2nX) . Windows 7 for Gamers
 - NaniOS is a Custom Windows 7 ISO. An Iso aiming to achieve highest Gaming Performence and lowest latency 
 - I personaly use this
+
 !!!DISCLAIMER!!!
 The use of custom software is not without risks, including, but not limited to, spyware, malware, viruses, rootkits, trojans, backdoors, harm to files, the loss of files, the collection of personal data, the loss of profits, and other damages. By downloading an iso, you certify that you, and you alone, are responsible for any direct or indirect consequences or damage resulting from its use.
 # Consistant Frame Caping
