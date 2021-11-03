@@ -4,7 +4,7 @@
 3. Paste everything from [autoexec](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/autoexec.cfg) in it.
 4. Rightclick on the game inside of Steam and go to "Properties".
 5. Switch to the "General" Tab.
-6. Add the command in launch options "+exec autoexec.cfg -forcenovsync -fullscreen -dev" (without the Quotation marks)
+6. Add the command in launch options "+exec autoexec.cfg -forcenovsync -dev" (without the Quotation marks)
 # Videoconfig
 7. Press Win+R while you are on your desktop.
 8. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" (without the Quotation marks)
