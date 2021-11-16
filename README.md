@@ -20,7 +20,6 @@ Windows 10 -
 Windows 7 -
 [NaniOS](https://discord.gg/SFgCXsn2nX)  Windows 7 for Gamers
 - NaniOS is a Custom Windows 7 ISO. Aiming to achieve highest gaming performence and lowest latency
-- I personaly use this os
 
 !!!DISCLAIMER!!!
 
