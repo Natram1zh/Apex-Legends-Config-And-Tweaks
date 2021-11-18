@@ -1,1 +1,0 @@
-The cache is created anew as they open Discord, delete it again if you wish
