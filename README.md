@@ -14,7 +14,7 @@
 # Best Gaming OS
 Windows 10 (1803) -
 [EVA](https://discord.gg/WYsArmWb8Z) Windows 10 for Gamers
-- EVA Github Page https://github.com/amitxvv/EVA
+- [EVA](https://github.com/amitxvv/EVA) Github Page 
 - I highly recommended using this os
 - Supports all hardware
 
