@@ -15,7 +15,6 @@
 Windows 10 (1803) -
 [EVA](https://discord.gg/WYsArmWb8Z) Windows 10 for Gamers
 - [EVA](https://github.com/amitxvv/EVA) Github Page 
-- I highly recommended using this os
 - Supports all hardware
 
 Windows 10 (20H2) -
