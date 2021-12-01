@@ -4,6 +4,7 @@
 3. Rightclick on the game inside of Steam and go to "Properties".
 4. Switch to the "General" Tab.
 5. Add the command in launch options "+exec autoexec.cfg -dev" (without the Quotation marks).
+
 | Command | Description |
 | --- | --- |
 | `+exec` | Executes a cfg file on startup |
