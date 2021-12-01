@@ -24,7 +24,9 @@
 </p>
 
 - Performance gain from this 
-![](_Images/Timer%20vs%20Forced%20Timer.png)
+<p float="left">
+  <img src="_Images/Timer%20vs%20Forced%20Timer.png" width="780" />
+</p>
 
 # Consistant Frame Caping
 13. Use RTSS for framerate caping over build-in game engines caps. RTSS is the best in frametime consistancy.Apex Legends and other Soruce Engine games cannot register inputs between frames. The more frames the more often Apex can register inputs. Do not use a higher cap value than 180 FPS since the game will introduce stutter (its a apex bug) You can download RTSS [here](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html)
