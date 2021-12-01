@@ -36,6 +36,7 @@
   <img src="_Images/RTSS%20Settings_1.PNG" width="528" />
   <img src="_Images/RTSS%20Settings_2.PNG" width="411" /> 
 </p>
+
 # Best Gaming OS 
 - BIOS Settings And Overclocking Are Important (You Don't Gain FPS Magical By Switching OS)
 - There is no best. Drivers, power plans, tweaks, even isos ... they all depend on your hardware, games, needs, and personal preferences. What is great for me may be terrible for you. The only way to know what is best for you is to test it yourself.
