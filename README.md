@@ -4,6 +4,10 @@
 3. Rightclick on the game inside of Steam and go to "Properties".
 4. Switch to the "General" Tab.
 5. Add the command in launch options "+exec autoexec.cfg -dev" (without the Quotation marks).
+| Command | Description |
+| --- | --- |
+| `+exec` | Executes a cfg file on startup |
+| `-dev` | Skips EA intro on startup |
 # Videoconfig
 6. Press Win+R while you are on your desktop.
 7. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" (without the Quotation marks).
@@ -12,16 +16,20 @@
 10. [Example](https://user-images.githubusercontent.com/83518657/144322691-c250563c-93af-4163-a93f-09936fc234a7.png)
 # Forced Timer 
 11. Move [Memory Cleaner](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/tree/main/Memory%20Cleaner) to "C:\Program Files" or somewhere safe.
-12. Run my [settings](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/tree/main/_Images), see timer settings in "[Images Folder](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/tree/main/_Images)".
-![](_Images/Timer%20Settings_1.PNG)
-![](_Images/Timer%20Settings_2.PNG)
+12. Run my [settings](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/tree/main/_Images)
+<p float="left">
+  <img src="_Images/Timer%20Settings_1.PNG" width="182" />
+  <img src="_Images/Timer%20Settings_2.PNG" width="384" /> 
+</p>
 ![](_Images/Timer%20vs%20Forced%20Timer.png)
 # Consistant Frame Caping
 13. Use RTSS for framerate caping over build-in game engines caps. RTSS is the best in frametime consistancy.Apex Legends and other Soruce Engine games cannot register inputs between frames. The more frames the more often Apex can register inputs. Do not use a higher cap value than 180 FPS since the game will introduce stutter (its a apex bug) You can download RTSS [here](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html)
 - For BR And Arena Max FPS is 180 [More info](https://twitter.com/CaIypto/status/1392354731205529606)
 14. Use This Settings [Images Folder](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/tree/main/_Images).
-![](_Images/RTSS%20Settings_1.PNG)
-![](_Images/RTSS%20Settings_2.PNG)
+<p float="left">
+  <img src="_Images/RTSS%20Settings_1.PNG" width="528" />
+  <img src="_Images/RTSS%20Settings_2.PNG" width="411" /> 
+</p>
 # Best Gaming OS 
 - BIOS Settings And Overclocking Are Important (You Don't Gain FPS Magical By Switching OS)
 - There is no best. Drivers, power plans, tweaks, even isos ... they all depend on your hardware, games, needs, and personal preferences. What is great for me may be terrible for you. The only way to know what is best for you is to test it yourself.
