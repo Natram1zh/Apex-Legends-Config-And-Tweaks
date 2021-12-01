@@ -23,8 +23,8 @@
 ![](_Images/RTSS%20Settings_1.PNG)
 ![](_Images/RTSS%20Settings_2.PNG)
 # Best Gaming OS 
-# IMPORTANT! BIOS Settings And OC Are Important (You Don't Gain FPS Magical By Switching OS)
-There is no best. Drivers, power plans, tweaks, even isos ... they all depend on your hardware, games, needs, and personal preferences. What is great for me may be terrible for you. The only way to know what is best for you is to test it yourself.
+- BIOS Settings And Overclocking Are Important (You Don't Gain FPS Magical By Switching OS)
+- There is no best. Drivers, power plans, tweaks, even isos ... they all depend on your hardware, games, needs, and personal preferences. What is great for me may be terrible for you. The only way to know what is best for you is to test it yourself.
 
 Windows 10 (20H2) -
 [ggOS](https://discord.gg/A5BHSQV)  Windows 10 for Gamers 
