@@ -22,6 +22,8 @@
   <img src="_Images/Timer%20Settings_1.PNG" width="182" />
   <img src="_Images/Timer%20Settings_2.PNG" width="384" /> 
 </p>
+
+- Performance gain from this 
 ![](_Images/Timer%20vs%20Forced%20Timer.png)
 
 # Consistant Frame Caping
