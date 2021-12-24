@@ -46,10 +46,6 @@ Windows 10 (20H2) -
 - Supports all hardware
 - Easy to set up 
 
-Windows 7 (SP1) -
-[NaniOS](https://discord.gg/SFgCXsn2nX)  Windows 7 for Gamers
-- Limited hardware support
-
 !!!DISCLAIMER!!!
 
 - This is an early access release for advanced users. if you are not comfortable with installing windows, updating drivers, using the device manager, changing the registry, or debugging on your own, do not install it.
