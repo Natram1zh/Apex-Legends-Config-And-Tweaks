@@ -55,7 +55,6 @@ Windows 10 (20H2) -
 - More Info : https://youtu.be/944kZCUqIXs
 # Discord Debloater
 - [Discord Debloater](https://github.com/Pablerso/Discord-Debloater/releases/tag/Discord) for convenience and performance
-- [Discord Debloater Script](https://github.com/couleur-tweak-tips/utils/blob/main/Patchers/DebloatDiscord.ps1) Thanks to [Couleur Tweak Tips](https://github.com/couleur-tweak-tips)
-- Couleur Tweak Tips [Discord Server](https://discord.gg/CTT)
+- [Discord Debloat Script](https://github.com/couleur-tweak-tips/utils/blob/main/Patchers/DebloatDiscord.ps1) easier way to debloat discord. Thanks to [Couleur Tweak Tips](https://github.com/couleur-tweak-tips) and his [discord server](https://discord.gg/CTT)
 # Troubleshooting Tools
 - Proper Method For Reinstalling Nvidia Driver (Don't Install Geforce Experience) [Drive Link](https://mega.nz/folder/DgplDCAZ#PuLZ6EOzQr-7ODS0mCvJRg) [Tutorial](https://youtu.be/Bu3phtU1gCE)
