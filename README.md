@@ -31,7 +31,7 @@
 # Performance Gain
 [Autoexec.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/autoexec.cfg) And [Videoconfig.txt](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/videoconfig.txt)
 <p float="center">
-  <img src="_Images/Apex%20Server%20Manger.PNG" />
+  <img src="_Images/Autoexec%20Vs%20In-Game%20Lowest%20Settings.PNG" />
  </p>
  
 # Best Gaming OS 
