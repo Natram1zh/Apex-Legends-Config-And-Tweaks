@@ -25,7 +25,7 @@
 
 # Consistant Frame Caping
 11. In-game cap or RTSS but now RTSS is optional  
-- In-game cap, Change fps_max 0 (in [autoexec.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/autoexec.cfg) and [superglide2.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/superglide2.cfg)) to your monitor hz (Lowest latency)
+- In-game cap, Change fps_max 0 (in [autoexec.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/autoexec.cfg) and [superglide2.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/superglide2.cfg)) to your monitor hz because [here](https://youtu.be/_73gFgNrYVQ) (Lowest latency)
 - [RTSS](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) for framerate caping and it is the best in frametime consistancy (Adds some latency but smoother than in-game cap)
 
 # Performance Gain
