@@ -9,6 +9,7 @@
 | --- | --- |
 | `+exec` | Executes a cfg file on startup |
 | `-dev` | Skips EA intro on startup |
+
 # Videoconfig
 6. Press Win+R while you are on your desktop.
 7. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" (without the Quotation marks).
@@ -23,14 +24,16 @@
 </p>
 
 # Consistant Frame Caping
-11. In-game cap or RTSS but now rtss is optional  
-- In-game cap, Change fps_max 0 (in [autoexec.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/autoexec.cfg) and [superglide2.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/superglide2.cfg)) to your monitor hz (Lowest Latency)
-- [RTSS](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) for framerate caping and it is the best in frametime consistancy (Adds some latency but smoother than in game-cap)
-<p float="left">
-  <img src="_Images/RTSS%20Settings_1.PNG" width="528" />
-  <img src="_Images/RTSS%20Settings_2.PNG" width="411" /> 
-</p>
+11. In-game cap or RTSS but now RTSS is optional  
+- In-game cap, Change fps_max 0 (in [autoexec.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/autoexec.cfg) and [superglide2.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/superglide2.cfg)) to your monitor hz (Lowest latency)
+- [RTSS](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) for framerate caping and it is the best in frametime consistancy (Adds some latency but smoother than in-game cap)
 
+# Performance Gain
+[Autoexec.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/autoexec.cfg) And [Videoconfig.txt](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/videoconfig.txt)
+<p float="center">
+  <img src="_Images/Apex%20Server%20Manger.PNG" />
+ </p>
+ 
 # Best Gaming OS 
 - BIOS Settings And Overclocking Are Important (You Don't Gain FPS Magical By Switching OS)
 - There is no best. Drivers, power plans, tweaks, even isos ... they all depend on your hardware, games, needs, and personal preferences. What is great for me may be terrible for you. The only way to know what is best for you is to test it yourself.
@@ -47,8 +50,14 @@ Windows 10 (20H2) -
 # Apex Server Manger 
 - Official Site To Download : https://m1kes.co.zw/softwares/
 - More Info : https://youtu.be/944kZCUqIXs
+<p float="center">
+  <img src="_Images/Apex%20Server%20Manger.PNG" />
+ </p>
+ 
 # Discord Debloater
-- [Discord Debloater](https://github.com/Pablerso/Discord-Debloater/releases/tag/Discord) for convenience and performance
-- [Discord Debloat Script](https://github.com/couleur-tweak-tips/utils/blob/main/Patchers/DebloatDiscord.ps1) easier way to debloat discord. Thanks to [Couleur Tweak Tips](https://github.com/couleur-tweak-tips) and his [Discord Server](https://discord.gg/CTT)
+[Discord Debloat Script](https://github.com/couleur-tweak-tips/utils/blob/main/Patchers/DebloatDiscord.ps1) easier way to debloat discord.
+- He just turned it into an easier to run PowerShell script that uses wildcard (no need to mess with the version)
+- Credits go to [Pablerso](https://github.com/Pablerso/Discord-Debloater) and [Couleur Tweak Tips](https://github.com/couleur-tweak-tips)
+
 # Troubleshooting Tools
 - Proper Method For Reinstalling Nvidia Driver (Don't Install Geforce Experience) [Tutorial](https://youtu.be/LR1XkjtylCM)
