@@ -17,8 +17,6 @@
 
 # Forced Timer 
 10. Move [Memory Cleaner](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/tree/main/Memory%20Cleaner) to "C:\Program Files" or somewhere safe. 
-
-Settings](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/tree/main/_Images)
 <p float="left">
   <img src="_Images/Timer%20Settings_1.PNG" width="182" />
   <img src="_Images/Timer%20Settings_2.PNG" width="384" /> 
@@ -29,7 +27,7 @@ Settings](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/tree/main/_Imag
 - In-game cap (Lowest Latency)
 - [RTSS](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) for framerate caping and it is the best in frametime consistancy (Adds some latency but smoother than in game-cap)
 
-Settings [Images Folder](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/tree/main/_Images).
+[Settings] [Images Folder](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/tree/main/_Images).
 <p float="left">
   <img src="_Images/RTSS%20Settings_1.PNG" width="528" />
   <img src="_Images/RTSS%20Settings_2.PNG" width="411" /> 
