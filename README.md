@@ -1,6 +1,6 @@
 # CFG Files 
 1. [Download](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/archive/refs/heads/main.zip) and extract it.
-2. Move [autoexec.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/autoexec.cfg), [superglide.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/superglide.cfg), [superglide1.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/superglide1.cfg), [superglide2.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/superglide2.cfg) to the games directory cfg folder (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg).
+2. Move [autoexec.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/autoexec.cfg), [superglide.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/superglide.cfg), [superglide1.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/superglide1.cfg), [superglide2.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/superglide2.cfg) and [reticles.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/reticles.cfg) to the games directory cfg folder (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg).
 3. Rightclick on the game inside of Steam and go to "Properties".
 4. Switch to the "General" Tab.
 5. Add the command in launch options "+exec autoexec.cfg -dev" (without the Quotation marks).
@@ -21,11 +21,6 @@
 <p float="left">
   <img src="_Images/Timer%20Settings_1.PNG" width="182" />
   <img src="_Images/Timer%20Settings_2.PNG" width="384" /> 
-</p>
-
-- Performance gain from this 
-<p float="left">
-  <img src="_Images/Timer%20vs%20Forced%20Timer.png" width="780" />
 </p>
 
 # Consistant Frame Caping
