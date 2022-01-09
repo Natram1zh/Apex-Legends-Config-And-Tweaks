@@ -13,20 +13,20 @@
 6. Press Win+R while you are on your desktop.
 7. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" (without the Quotation marks).
 8. Move [videoconfig.txt](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/videoconfig.txt) in it.
-9. For Origin users make sure your Origin Cloud Sync is disabled in the origin settings (Start the game with local saves).
-10. [Example](https://user-images.githubusercontent.com/83518657/144322691-c250563c-93af-4163-a93f-09936fc234a7.png)
+9. For Origin users make sure your Origin Cloud Sync is disabled in the origin settings [example](https://user-images.githubusercontent.com/83518657/144322691-c250563c-93af-4163-a93f-09936fc234a7.png)(Start the game with local saves).
+
 # Forced Timer 
-11. Move [Memory Cleaner](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/tree/main/Memory%20Cleaner) to "C:\Program Files" or somewhere safe.
-12. Run my [settings](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/tree/main/_Images)
+10. Move [Memory Cleaner](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/tree/main/Memory%20Cleaner) to "C:\Program Files" or somewhere safe.
+11. Run my [settings](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/tree/main/_Images)
 <p float="left">
   <img src="_Images/Timer%20Settings_1.PNG" width="182" />
   <img src="_Images/Timer%20Settings_2.PNG" width="384" /> 
 </p>
 
 # Consistant Frame Caping
-13. Use RTSS for framerate caping over build-in game engines caps. RTSS is the best in frametime consistancy.Apex Legends and other Soruce Engine games cannot register inputs between frames. The more frames the more often Apex can register inputs. Do not use a higher cap value than 180 FPS since the game will introduce stutter (its a apex bug) You can download RTSS [here](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html)
+12. Use RTSS for framerate caping over build-in game engines caps. RTSS is the best in frametime consistancy.Apex Legends and other Soruce Engine games cannot register inputs between frames. The more frames the more often Apex can register inputs. Do not use a higher cap value than 180 FPS since the game will introduce stutter (its a apex bug) You can download RTSS [here](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html)
 - For BR And Arena Max FPS is 180 [More info](https://twitter.com/CaIypto/status/1392354731205529606)
-14. Use This Settings [Images Folder](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/tree/main/_Images).
+13. Use This Settings [Images Folder](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/tree/main/_Images).
 <p float="left">
   <img src="_Images/RTSS%20Settings_1.PNG" width="528" />
   <img src="_Images/RTSS%20Settings_2.PNG" width="411" /> 
