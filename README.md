@@ -55,9 +55,7 @@ Windows 10 (20H2) -
  </p>
  
 # Discord Debloater
-[Discord Debloat Script](https://github.com/couleur-tweak-tips/utils/blob/main/Patchers/DebloatDiscord.ps1) easier way to debloat discord.
-- He just turned it into an easier to run PowerShell script that uses wildcard (no need to mess with the version)
-- Credits go to [Pablerso](https://github.com/Pablerso/Discord-Debloater) and [Couleur Tweak Tips](https://github.com/couleur-tweak-tips)
+- Credit goes to [Pablerso](https://github.com/Pablerso/Discord-Debloater)
 
 # Troubleshooting Tools
 - Proper Method For Reinstalling Nvidia Driver (Don't Install Geforce Experience) [Tutorial](https://youtu.be/LR1XkjtylCM)
