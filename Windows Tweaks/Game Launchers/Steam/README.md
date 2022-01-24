@@ -3,7 +3,7 @@
 2. Copy and paste the following "C:\Program Files (x86)\Steam\steam.exe" -no-browser +open steam://open/minigameslist (with the Quotation marks).
 3. Press "Next" And call it Steam.exe or Steam-Light.exe.
 4. Now this is how it'll look when you use the shortcut.
-<p float="left">
+<p float="center">
   <img src="_Images/Debloated%20Steam.PNG" width="315" />
 </p>
 
