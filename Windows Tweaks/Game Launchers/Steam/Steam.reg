@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Valve\Steam]
+"SmoothScrollWebViews"=dword:00000000
+"DWriteEnable"=dword:00000000
+"StartupMode"=dword:00000000
+"H264HWAccel"=dword:00000000
+"DPIScaling"=dword:00000000
+"GPUAccelWebViews"=dword:00000000
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+"Steam"=-
