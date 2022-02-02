@@ -8,7 +8,7 @@
 | Command | Description |
 | --- | --- |
 | `+exec` | Executes a cfg file on startup |
-| `-dev` | Skips EA intro on startup |
+| `-dev` | Skips EA intro on startup, can cause HUD flicker issues on NVIDIA cards |
 
 # Videoconfig
 6. Press Win+R while you are on your desktop.
