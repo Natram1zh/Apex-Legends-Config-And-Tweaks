@@ -29,7 +29,7 @@
 - [RTSS](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) for framerate caping and it is the best in frametime consistancy (Adds some latency but smoother than in-game cap)
 <p float="left">
   <img src="_Images/RTSS%20Settings_1.PNG" width="528" />
-  <img src="_Images/RTSS%20Settings_2.PNG" width="411" /> 
+  <img src="_Images/RTSS%20Settings_2.PNG" width="407" /> 
 </p>
 
 # Performance Gain
