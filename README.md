@@ -38,7 +38,7 @@
   <img src="_Images/Autoexec%20Vs%20In-Game%20Lowest%20Settings.PNG" />
  </p>
  
-# Best Gaming OS 
+# Gaming OS 
 - BIOS Settings And Overclocking Are Important (You Don't Gain FPS Magical By Switching OS)
 - There is no best. Drivers, power plans, tweaks, even isos ... they all depend on your hardware, games, needs, and personal preferences. What is great for me may be terrible for you. The only way to know what is best for you is to test it yourself.
 
