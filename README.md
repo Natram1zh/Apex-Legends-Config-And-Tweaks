@@ -68,16 +68,19 @@ Windows 10 (20H2) -
 Gaming OS
 - [ggOS](https://discord.gg/A5BHSQV) - Windows 10 2H02
 - [ReviOS](https://discord.gg/962y4pU) - Recommended for Windows 11
+
 Github
 - [Zusier](https://github.com/Zusier/Zusiers-optimization-Batch) - Optimizer
 - [BoringBoredom](https://github.com/BoringBoredom/PC-Optimization-Hub) - BoringBoredom’s Latency Guide
 - [AutoEQ](https://github.com/jaakkopasanen/AutoEq/blob/master/results/INDEX.md) - Automatic headphone and iem equalization
 - [Timecard](https://github.com/djdallmann/GamingPCSetup) - Timecard’s Latency Guide
 - [Couleur Tweak Tips](https://github.com/couleur-tweak-tips) - Tweaks and settings
+
 Discord Servers
 - [Couleur Tweak Tips](https://discord.gg/ctt) - Content creator settings and tweaks
 - [EchoX](https://discord.gg/dptDHp9p9k) - One click Optimizer
 - [Calypto](https://discord.com/invite/QvPubRq) - Tweaking server
+
 Forums
 - [Calypto](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit) - Calypto’s Latency Guide
 - [Nikos](http://n1kobg.blogspot.com) - Niko's Latency Guide
