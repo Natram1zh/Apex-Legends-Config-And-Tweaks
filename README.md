@@ -84,7 +84,10 @@ Discord Servers
 Forums
 - [Calypto](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit) - Calypto’s Latency Guide
 - [Nikos](http://n1kobg.blogspot.com) - Niko's Latency Guide
-- More coming soon
+
+BIOS
+- [Imribiy](https://docs.google.com/spreadsheets/d/1Jw3lfH0uRFXMxnFGdpNfRpVvrQN-MVwaE0HSKoj-Xag/edit) - Ryzen Grub by imribiy
+- [Revision](https://docs.google.com/document/d/1-izZaWrXaKIncYXDwmdY32YwdGCU5mDLJE6TW1Opnv8/edit#heading=h.f8qzobdxnx6w) - Tweaking guide for Intel
 
 !!!DISCLAIMER!!!
 
