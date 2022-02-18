@@ -11,7 +11,7 @@
 | `-dev` | Skips EA intro on startup, can cause HUD flicker issues on NVIDIA cards |
 | `-high` | To stop crashes and potentially increase FPS in low-end PC |
 
-Thanks to [Nerd2k](https://www.twitch.tv/nerd2k) for telling me this.
+- Thanks to [Nerd2k](https://www.twitch.tv/nerd2k) for telling me this.
 
 # Videoconfig
 6. Press Win+R while you are on your desktop.
