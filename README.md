@@ -9,9 +9,10 @@
 | --- | --- |
 | `+exec` | Executes a cfg file on startup |
 | `-dev` | Skips EA intro on startup, can cause HUD flicker issues on NVIDIA cards |
-| `-high` | To stop crashes and potentially increase FPS in low-end PC |
+| `-high` | Reduce number of game crashes and potentially increase FPS in low-end PC |
 
 - Thanks to [Nerd2k](https://www.twitch.tv/nerd2k) for telling me this.
+- Game Crash Fix (Only works when your PC is stable) : Reduce vram settings to 2GB or None(stream_memory "0" or stream_memory "160000")
 
 # Videoconfig
 6. Press Win+R while you are on your desktop.
