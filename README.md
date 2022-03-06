@@ -11,8 +11,10 @@
 | `-dev` | Skips EA intro on startup, can cause HUD flicker issues on NVIDIA cards |
 | `-high` | Reduce number of game crashes and potentially increase FPS in low-end PC |
 
-- Thanks to [Nerd2k](https://www.twitch.tv/nerd2k) for telling me this.
-- Game Crash Fix (Only works when your PC is stable) : Reduce vram settings to 2GB or None(stream_memory "0" or stream_memory "160000")
+- Game Crash Fix (Only works when your PC is stable) : Reduce vram settings to 2GB or None(stream_memory "0" or stream_memory "160000") (Fixed)
+<p float="left">
+  <img src="_Images/Client%20Crashing%20And%20FPS%20Drop%20Patched.png" width="574" />
+</p>
 
 # Videoconfig
 6. Press Win+R while you are on your desktop.
