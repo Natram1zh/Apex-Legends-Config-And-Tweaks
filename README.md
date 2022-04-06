@@ -70,10 +70,10 @@ Windows 10 (21H2) - Personally I use this
 # Troubleshooting Tools
 - Proper Method For Reinstalling Nvidia Driver (Don't Install Geforce Experience) [Tutorial](https://youtu.be/LR1XkjtylCM)
 - Recommended Nvidia Drivers
- - 471.68
- - 466.77
- - 457.30
- - 456.71
+ -471.68
+ -466.77
+ -457.30
+ -456.71
 
 # Infomative
 Gaming OS
