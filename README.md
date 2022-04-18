@@ -1,5 +1,5 @@
 # News
-- Most of the time prediction error is server related problem. It has nothing to do with autoexec (unless you have a bad internet) so don't say I get prediction error because of using this autoexec, In some case yes but most of the time it is no. OG players can understand this, apex always has bad server. Personally I suffer this problem while playing rank.
+- Most of the time prediction error is server related problem. It has nothing to do with autoexec (unless you have a bad internet or micro stutters) so don't say I get prediction error because of using this autoexec, In some case yes but most of the time it is no. OG players can understand this, apex always has bad server. Personally I suffer this problem while playing rank.
 <p float="left">
   <img src="_Images/Prediction%20Error%20Explanation%20By%20Dev.png" width="793" />
 </p>
@@ -45,7 +45,13 @@
 </p>
 
 # Advantages
-Coming soon... 
+- In terms of fps
+<p float="left">
+  <img src="_Images/Comparisons%20Of%20Settings.png" width="1666" />
+</p>
+
+- In terms of visibility
+Coming soon...
 
 # Gaming OS 
 - BIOS Settings And Overclocking Are Important (You Don't Gain FPS Magical By Switching OS)
