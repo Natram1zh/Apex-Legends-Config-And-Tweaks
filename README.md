@@ -36,8 +36,8 @@
   <img src="_Images/RTSS%20Settings_2.PNG" width="407" /> 
 </p>
 
-# Performance Gain (Outdated)
-Coming soon...
+# Advantages
+Coming soon... 
 
 # Gaming OS 
 - BIOS Settings And Overclocking Are Important (You Don't Gain FPS Magical By Switching OS)
@@ -64,11 +64,8 @@ Windows 10 (21H2) - Personally I use this
   <img src="_Images/Apex%20Server%20Manger.PNG" />
  </p>
  
-# Discord Debloater (Outdated)
-- Credit goes to [Pablerso](https://github.com/Pablerso/Discord-Debloater)
-
 # Troubleshooting Tools
-- Proper Method For Reinstalling Nvidia Driver (Don't Install Geforce Experience) [Tutorial](https://youtu.be/LR1XkjtylCM)
+- Proper Method For Reinstalling Nvidia Driver [Tutorial](https://youtu.be/LR1XkjtylCM). Don't Install Geforce Experience, If you really want to install it then you can use [this script](https://github.com/Moyster/BaiGfe) to remove GeForce Expterience telemetry.
 
 # Infomative
 Gaming OS
