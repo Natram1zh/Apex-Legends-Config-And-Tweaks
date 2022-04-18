@@ -3,6 +3,7 @@
 <p float="left">
   <img src="_Images/Prediction%20Error%20Explanation%20By%20Dev.png" width="793" />
 </p>
+
 - To check how good your network connect is, use [bufferbloat test](https://www.waveform.com/tools/bufferbloat).
 
 # CFG Files 
