@@ -1,6 +1,6 @@
 # News (Fixed)
 Huge problem, my config is not working in season 13. I will look into it. For now use [deafps config](https://github.com/deaFPS/apex-configs-by-deafps)
-- Fixed it thanks to my friend.
+- Fixed it thanks to my [friends](https://github.com/Natram1zh/Apex-Legends-Config-And-Tweaks/issues/3).
 
 # CFG Files 
 1. [Download](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/archive/refs/heads/main.zip) and extract it.
