@@ -54,8 +54,7 @@ Coming soon...
 - BIOS Settings And Overclocking Are Important (You Don't Gain FPS Magical By Switching OS)
 - There is no best. Drivers, power plans, tweaks, even isos ... they all depend on your hardware, games, needs, and personal preferences. What is great for me may be terrible for you. The only way to know what is best for you is to test it yourself.
 
-Windows 10 (20H2) - Personally I use this
-[ggOS](https://discord.gg/A5BHSQV)  Windows 10 for Gamers 
+Windows 10 (20H2) - [ggOS](https://discord.gg/A5BHSQV)  Windows 10 for Gamers
 - Supports all hardware
 - Easy to set up 
 
