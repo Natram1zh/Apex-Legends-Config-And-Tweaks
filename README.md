@@ -54,15 +54,15 @@ Coming soon...
 - BIOS Settings And Overclocking Are Important (You Don't Gain FPS Magical By Switching OS)
 - There is no best. Drivers, power plans, tweaks, even isos ... they all depend on your hardware, games, needs, and personal preferences. What is great for me may be terrible for you. The only way to know what is best for you is to test it yourself.
 
-Windows 10 (20H2) - Some users face some fps issue in apex legends
+Windows 10 (20H2) - Personally I use this
 [ggOS](https://discord.gg/A5BHSQV)  Windows 10 for Gamers 
 - Supports all hardware
 - Easy to set up 
 
-Windows 10 (21H2) - Personally I use this
-[ReviOS](https://discord.gg/962y4pU)  Windows 10 for Gamers 
-- Supports all hardware
-- Less tweaks are done
+I highly recommend you guys to join [CTT discord server](https://discord.gg/ctt)
+<p float="left">
+  <img src="_Images/Guide%20By%20CTT.png" width="1284" />
+</p>
 
 !!!DISCLAIMER!!!
 
