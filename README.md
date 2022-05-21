@@ -92,6 +92,7 @@ Github
 
 Discord Servers
 - [Couleur Tweak Tips](https://discord.gg/ctt) - Content creator settings and tweaks
+- [Felipe](discord.gg/35DVM9ErrG) - Info and tweaking server
 - [EchoX](https://discord.gg/dptDHp9p9k) - One click Optimizer
 - [Calypto](https://discord.com/invite/QvPubRq) - Tweaking server
 
