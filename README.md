@@ -1,7 +1,3 @@
-# News (Fixed)
-Huge problem, my config is not working in season 13. I will look into it. For now use [deafps config](https://github.com/deaFPS/apex-configs-by-deafps)
-- Fixed it thanks to my [friends](https://github.com/Natram1zh/Apex-Legends-Config-And-Tweaks/issues/3).
-
 # CFG Files 
 1. [Download](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/archive/refs/heads/main.zip) and extract it.
 2. Move [autoexec.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/autoexec.cfg), [superglide.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/superglide.cfg), [superglide1.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/superglide1.cfg), [superglide2.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/superglide2.cfg) and [reticles.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/reticles.cfg) to the games directory cfg folder (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg).
@@ -53,35 +49,16 @@ Coming soon...
 # Gaming OS 
 - BIOS Settings And Overclocking Are Important (You Don't Gain FPS Magical By Switching OS)
 - There is no best. Drivers, power plans, tweaks, even isos ... they all depend on your hardware, games, needs, and personal preferences. What is great for me may be terrible for you. The only way to know what is best for you is to test it yourself.
-
-Windows 10 (20H2) - [ggOS](https://discord.gg/A5BHSQV)  Windows 10 for Gamers
-- Supports all hardware
-- Easy to set up 
-
-I highly recommend you guys to join [CTT discord server](https://discord.gg/ctt)
-<p float="left">
-  <img src="_Images/Guide%20By%20CTT.png" width="1284" />
-</p>
-
-!!!DISCLAIMER!!!
-
-- This is an early access release for advanced users. if you are not comfortable with installing windows, updating drivers, using the device manager, changing the registry, or debugging on your own, do not install it.
-- The use of custom software is not without risks, including, but not limited to, spyware, malware, viruses, rootkits, trojans, backdoors, harm to files, the loss of files, the collection of personal data, the loss of profits, and other damages. By downloading an iso, you certify that you, and you alone, are responsible for any direct or indirect consequences or damage resulting from its use.
-# Apex Server Manger 
-- Official Site To Download : https://m1kes.co.zw/softwares/
-- More Info : https://youtu.be/944kZCUqIXs
-<p float="center">
-  <img src="_Images/Apex%20Server%20Manger.PNG" />
- </p>
  
 # Troubleshooting Tools
 - Proper Method For Reinstalling Nvidia Driver [Tutorial](https://youtu.be/LR1XkjtylCM). Don't Install Geforce Experience, If you really want to install it then you can use [this script](https://github.com/Moyster/BaiGfe) to remove GeForce Expterience telemetry.
 
 # Infomative
 Gaming OS
-- [ggOS](https://discord.gg/A5BHSQV) - Windows 10 2H02
+- [ggOS](https://discord.gg/A5BHSQV) - Windows 10 (2H02)
+- [XOS](https://discord.gg/k6EGvTNPe4) - Recommended for Windows 10 (1607) & Windows 11
 - [ReviOS](https://discord.gg/962y4pU) - Recommended for Windows 11
-- [AtlasOS](https://discord.gg/ERAy8HNFPg) - Recommended for Windows 10 1803
+- [AtlasOS](https://discord.gg/ERAy8HNFPg) - Recommended for Windows 10 (1803)
 
 Github
 - [Zusier](https://github.com/Zusier/Zusiers-optimization-Batch) - Optimizer
@@ -99,6 +76,7 @@ Discord Servers
 Forums
 - [Calypto](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit) - Calypto’s Latency Guide
 - [Nikos](http://n1kobg.blogspot.com) - Niko's Latency Guide
+- [Imribiy](https://docs.google.com/spreadsheets/d/1p6VUQIHEJtBZxcav-a403UtoCMHop17IJI3_qM-zEH8) - NTLite Guide for creating your own custom OS
 
 BIOS
 - [Imribiy](https://docs.google.com/spreadsheets/d/1Jw3lfH0uRFXMxnFGdpNfRpVvrQN-MVwaE0HSKoj-Xag/edit) - Ryzen Grub by imribiy
