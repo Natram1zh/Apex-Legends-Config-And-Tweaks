@@ -50,9 +50,6 @@ Coming soon...
 - BIOS Settings And Overclocking Are Important (You Don't Gain FPS Magical By Switching OS)
 - There is no best. Drivers, power plans, tweaks, even isos ... they all depend on your hardware, games, needs, and personal preferences. What is great for me may be terrible for you. The only way to know what is best for you is to test it yourself.
  
-# Troubleshooting Tools
-- Proper Method For Reinstalling Nvidia Driver [Tutorial](https://youtu.be/LR1XkjtylCM). Don't Install Geforce Experience, If you really want to install it then you can use [this script](https://github.com/Moyster/BaiGfe) to remove GeForce Expterience telemetry.
-
 # Infomative
 Gaming OS
 - [ggOS](https://discord.gg/A5BHSQV) - Windows 10 (2H02)
@@ -66,6 +63,7 @@ Github
 - [AutoEQ](https://github.com/jaakkopasanen/AutoEq/blob/master/results/INDEX.md) - Automatic headphone and iem equalization
 - [Timecard](https://github.com/djdallmann/GamingPCSetup) - Timecard’s Latency Guide
 - [Couleur Tweak Tips](https://github.com/couleur-tweak-tips) - Tweaks and settings
+- [EVA](https://github.com/amitxv/EVA) - Windows 7 and Windows 10 Optimization Guide
 
 Discord Servers
 - [Couleur Tweak Tips](https://discord.gg/ctt) - Content creator settings and tweaks
